@@ -18,6 +18,6 @@ A web page recreated from an existing Figma design
 
 You can view the project through the links below: 
  - [Flutuar Web Page](https://rodirog.github.io/pagina-web/)
- - [Figma](https://www.figma.com/file/LhYJvmNu8q4QqG39qjDnvW/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=TXEzkVDf2SKyySDJ-0) (Figma account is required for access)
+ - [Figma](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate) (Figma account is required for access)
 
 
